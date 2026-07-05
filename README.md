@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Kikelomo 👋
 
-<!--
-**kiks2022/kiks2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst transitioning into Data Science**, focused on turning messy, real-world data into clear insights and predictive models.
 
-Here are some ideas to get you started:
+I enjoy working across the full analytics stack — from cleaning and exploring data, to querying it with SQL, to building the first layer of machine learning on top of it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tools & Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, NLTK, Matplotlib/Seaborn
+- **Techniques:** Exploratory Data Analysis (EDA), NLP (sentiment analysis, tokenization), statistical analysis, SQL joins & window functions, query optimization
+- **Currently learning:** Machine learning fundamentals (classification/regression)
+
+---
+
+### 📌 Featured Projects
+
+**[Telco Churn Analysis](https://github.com/kiks2022/telco-churn-analysis)**
+Analyzing customer churn patterns to identify key drivers of attrition.
+
+**[IMDB Sentiment Analysis](https://github.com/kiks2022/imdb-sentiment-analysis)**
+NLP pipeline for movie review sentiment classification — text cleaning, tokenization, stopword removal, and word frequency analysis.
+
+**[Sales Data SQL Analytics](https://github.com/kiks2022/sales_data_sql_Analytics)**
+SQL analytics project using Chinook and Kaggle sales datasets — core queries, joins, window functions, and query optimization.
+
+**[Titanic EDA Project](https://github.com/kiks2022/Titanic-EDA-Project)**
+Exploring passenger survival patterns through data cleaning, visualization, and statistical analysis.
+
+**[NYC Schools SAT Analysis](https://github.com/kiks2022/nyc-schools-sat-analysis)**
+Identifying top math performers, highest combined scorers, and borough-level score variability using pandas.
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [(https://www.linkedin.com/in/kikelomo-adekoya/)]
+- Portfolio:  [-]
+- Email: [adekoyaakorede@gmail.com]
+
+---
+*Currently working on: sharpening my machine learning skills to move from analysis into prediction.*
