@@ -9,6 +9,7 @@ I enjoy working across the full analytics stack — from cleaning and exploring 
 ### 🔧 Tools & Skills
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, NLTK, Matplotlib/Seaborn
+- **Tools:** Tableau
 - **Techniques:** Exploratory Data Analysis (EDA), NLP (sentiment analysis, tokenization), statistical analysis, SQL joins & window functions, query optimization
 - **Currently learning:** Machine learning fundamentals (classification/regression)
 
@@ -17,7 +18,10 @@ I enjoy working across the full analytics stack — from cleaning and exploring 
 ### 📌 Featured Projects
 
 **[Telco Churn Analysis](https://github.com/kiks2022/telco-churn-analysis)**
-Analyzing customer churn patterns to identify key drivers of attrition.
+Business analytics case study analyzing why Telco customers churn and which factors matter most — built with Python, EDA, and business insight generation to prioritize retention efforts.
+
+**[Tableau Dashboards](https://github.com/kiks2022/Tableau_dashboards)**
+Interactive Tableau dashboards covering sales and global health analytics.
 
 **[IMDB Sentiment Analysis](https://github.com/kiks2022/imdb-sentiment-analysis)**
 NLP pipeline for movie review sentiment classification — text cleaning, tokenization, stopword removal, and word frequency analysis.
@@ -28,15 +32,11 @@ SQL analytics project using Chinook and Kaggle sales datasets — core queries, 
 **[Titanic EDA Project](https://github.com/kiks2022/Titanic-EDA-Project)**
 Exploring passenger survival patterns through data cleaning, visualization, and statistical analysis.
 
-**[NYC Schools SAT Analysis](https://github.com/kiks2022/nyc-schools-sat-analysis)**
-Identifying top math performers, highest combined scorers, and borough-level score variability using pandas.
-
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [(https://www.linkedin.com/in/kikelomo-adekoya/)]
-- Portfolio:  [-]
-- Email: [adekoyaakorede@gmail.com]
+- LinkedIn: [linkedin.com/in/kikelomo-adekoya](https://www.linkedin.com/in/kikelomo-adekoya/)
+- Email: adekoyaakorede@gmail.com
 
 ---
 *Currently working on: sharpening my machine learning skills to move from analysis into prediction.*
