@@ -23,7 +23,8 @@ Interactive Tableau dashboards covering sales and global health analytics.
 SQL analytics project using Chinook and Kaggle sales datasets — core queries, joins, window functions, and query optimization.
 
 **[HIV-Evidence-Assistant-LLM-RAG](https://github.com/kiks2022/HIV-Evidence-Assistant-LLM-RAG)**
-Exploring passenger survival patterns through data cleaning, visualization, and statistical analysis.
+AI research tool using RAG to retrieves real PUBMED research and treatment guidelines and present them in structured format - https://hiv-evidence-assistant.streamlit.app/
+
 ---
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/kikelomo-adekoya](https://www.linkedin.com/in/kikelomo-adekoya/)
