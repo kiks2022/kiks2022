@@ -22,7 +22,7 @@ Interactive Tableau dashboards covering sales and global health analytics.
 **[Sales Data SQL Analytics](https://github.com/kiks2022/sales_data_sql_Analytics)**
 SQL analytics project using Chinook and Kaggle sales datasets — core queries, joins, window functions, and query optimization.
 
-**[Titanic EDA Project](https://github.com/kiks2022/Titanic-EDA-Project)**
+**[Titanic EDA Project](https://github.com/kiks2022/HIV-Evidence-Assistant-LLM-RAG)**
 Exploring passenger survival patterns through data cleaning, visualization, and statistical analysis.
 ---
 ### 📫 Let's Connect
