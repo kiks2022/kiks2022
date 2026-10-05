@@ -3,7 +3,7 @@ I'm a **Data Analyst transitioning into Data Science**, focused on turning messy
 I enjoy working across the full analytics stack — from cleaning and exploring data, to querying it with SQL, to building the first layer of machine learning on top of it.
 ---
 ### 🔧 Tools & Skills
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, Excel
 - **Libraries:** Pandas, NumPy, NLTK, Matplotlib/Seaborn
 - **Tools:** Tableau
 - **Techniques:** Exploratory Data Analysis (EDA), Time-Series Analysis, NLP (sentiment analysis, tokenization), statistical analysis, SQL joins & window functions, query optimization
